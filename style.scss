@@ -18,8 +18,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+  background: $white;
+//  font: 18px/1.4 $helvetica;
+  font-family: 'Source Sans Pro', sans-serif;
   color: $darkGray;
 }
 
@@ -31,7 +32,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+//  font-family: $helveticaNeue;
+  font-family: 'Cabin', sans-serif;
   color: $darkerGray;
   font-weight: bold;
 
