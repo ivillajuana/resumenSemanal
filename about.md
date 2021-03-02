@@ -1,19 +1,16 @@
 ---
 layout: page
-title: About
+title: Acerca
 permalink: /about/
 ---
 
-Mi nombre es Mithrandir y soy colaborador en el grupo de estudio. Próximamente añadiré otro blog con
-apuntes y tips sobre el desarrollo web.
+Este es un blog reservado para la comunidad de estudio (Nos hace falta un nombre!). Aquí se subirá
+de manera semanal un informe con los puntos más importantes de cada reunión.
 
 ### Más información
 
-* Sistema operativo: Linux
-* Distro: Arch Linux
-* WM: dwm
-* Editor: NeoVim 
+En esta sección iremos añadiendo quizá notas, anuncios
 
 ### Contacto
 
-Si te interesa hablar sobre un tema o proyecto conmigo puedes enviarme un correo a esta [dirección](mailto:ivillajuana@hotmail.com)
+Aquí pondremos las distintas vías de contacto. Quizá hacer redes sociales a futuro.
