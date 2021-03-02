@@ -9,11 +9,11 @@ durante esta reunión:
 * **Estudio colectivo:** Cada semana habrá un nuevo tema de estudio; ésto para motivar el
   aprendizaje y esfuerzo continuo. El medio por el cual se aprendan los temas (videos, e-books,
   tutoriales web, etc.) queda a decisión de cada uno, aunque se invita a compartirlo en la sección
-  de **git** para que otros compañeros puedan aprovecharlo también.
+  de **#recursos** para que otros compañeros puedan aprovecharlo también.
   
-  El objetivo y tema de esta primer semana (01-06 de Marzo) será **aprender a usar Git y Github** para
-el control de versiones de los proyectos que estaremos elaborando cada semana, así como para crear
-un repositorio (en caso de no tenerlo) donde almacenen sus proyectos individuales.
+> El objetivo y tema de esta primer semana (01-06 de Marzo) será **aprender a usar Git y Github** para
+> el control de versiones de los proyectos que estaremos elaborando cada semana, así como para crear
+> un repositorio (en caso de no tenerlo) donde almacenen sus proyectos individuales.
 
 * **Trabajo en equipo:** Para desarrollar los temas, se harán grupos reducidos (a lo más de 4
   integrantes) con el mismo nivel de aprendizaje o equivalente. No se descarta que algún compañero
@@ -29,14 +29,15 @@ un repositorio (en caso de no tenerlo) donde almacenen sus proyectos individuale
   ayudarnos de manera conjunta a alcanzar un nivel de proficiencia óptim para trabajar como
   desarrolladores web o programadores. Sin embargo, los alcances de esta comunidad podrían
   extenderse más allá de ello. 
-  Si logramos estructurar y coordinar bien el contenido que vayamos generando, podríamos crear una
-plataforma en la cual otros desarrolladores puedan respaldarse para adquirir habilidades y práctica
-que otros sitios, comunidades y proyectos no ofrecen. Debido a esto, se contempla la posibilidad de
-elaborar y publicar videos en un canal de YouTube sobre los temas ya discutidos para que sirvan de
-apoyo a los que apenas se estén integrando a la comunidad.
-De la misma manera, se contempla la posibilidad de que a futuro, los compañeros que dominen alguno
- de los lenguajes o temas vistos puedan hacer streams para ayudar a los demás.
- 
- Sin duda hay mucho por hacer en este proyecto y si tienes alguna duda o sugerencia al respecto, no
-olvides dejarlo en la seccion del **#buzon**
+  
+  Si logramos estructurar y coordinar bien el contenido que vayamos generando, podríamos:
+  * Crear una plataforma en la cual otros desarrolladores puedan respaldarse para adquirir habilidades y práctica
+que otros sitios, comunidades y proyectos no ofrecen. 
+  * Elaborar y publicar videos en un canal de YouTube
+  * Asignar a cada compañero el canal del lenguaje que domine, en el que podrá hacer streams y
+    ayudar a quienes lo necesiten
+  
+  Sin duda nos falta camino por recorrer, pero con iniciativa y esfuerzo, lograremos ser buenos
+  desarrolladores y programadores en poco tiempo. Si tienes alguna duda, inquietud o sugerencia al respecto, 
+  no olvides dejarlo en la seccion del **#buzon**
 
