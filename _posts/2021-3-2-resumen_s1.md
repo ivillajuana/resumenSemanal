@@ -12,7 +12,7 @@ durante esta reunión:
   de **#recursos** para que otros compañeros puedan aprovecharlo también.
   
   <span style="background-color: #E6B900">
-  El objetivo y tema de esta primer semana (01-06 de Marzo) será **aprender a usar Git y Github** para
+  El objetivo y tema de esta primer semana (01-06 de Marzo) será **aprender a usar Git/Github** para
   el control de versiones de los proyectos que estaremos elaborando cada semana, así como para crear
   un repositorio (en caso de no tenerlo) donde almacenen sus proyectos individuales.
   </span>
@@ -28,7 +28,7 @@ durante esta reunión:
   usuarios.
   
 * **Videos, Canal de YT y otros planes a futuro:** Una de las motivaciones de este grupo es la de
-  ayudarnos de manera conjunta a alcanzar un nivel de proficiencia óptim para trabajar como
+  ayudarnos de manera conjunta a alcanzar un nivel de proficiencia óptima para trabajar como
   desarrolladores web o programadores. Sin embargo, los alcances de esta comunidad podrían
   extenderse más allá de ello. 
   
