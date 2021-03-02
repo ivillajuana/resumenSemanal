@@ -9,7 +9,7 @@ name: Resumen Semanal de Actividades
 description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/new-logo.png
+avatar: avatar.png
 
 #
 # Flags below are optional
