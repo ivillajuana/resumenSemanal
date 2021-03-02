@@ -11,9 +11,11 @@ durante esta reunión:
   tutoriales web, etc.) queda a decisión de cada uno, aunque se invita a compartirlo en la sección
   de **#recursos** para que otros compañeros puedan aprovecharlo también.
   
-> El objetivo y tema de esta primer semana (01-06 de Marzo) será **aprender a usar Git y Github** para
-> el control de versiones de los proyectos que estaremos elaborando cada semana, así como para crear
-> un repositorio (en caso de no tenerlo) donde almacenen sus proyectos individuales.
+  <span style="background-color: #E6B900">
+  El objetivo y tema de esta primer semana (01-06 de Marzo) será **aprender a usar Git y Github** para
+  el control de versiones de los proyectos que estaremos elaborando cada semana, así como para crear
+  un repositorio (en caso de no tenerlo) donde almacenen sus proyectos individuales.
+  </span>
 
 * **Trabajo en equipo:** Para desarrollar los temas, se harán grupos reducidos (a lo más de 4
   integrantes) con el mismo nivel de aprendizaje o equivalente. No se descarta que algún compañero
@@ -31,11 +33,11 @@ durante esta reunión:
   extenderse más allá de ello. 
   
   Si logramos estructurar y coordinar bien el contenido que vayamos generando, podríamos:
-  * Crear una plataforma en la cual otros desarrolladores puedan respaldarse para adquirir habilidades y práctica
+  * **Crear una plataforma** en la cual otros desarrolladores puedan respaldarse para adquirir habilidades y práctica
 que otros sitios, comunidades y proyectos no ofrecen. 
-  * Elaborar y publicar videos en un canal de YouTube
-  * Asignar a cada compañero el canal del lenguaje que domine, en el que podrá hacer streams y
-    ayudar a quienes lo necesiten
+  * **Crear un canal de YouTube** colectivo, donde se suban videos de los temas que veamos
+  * **Asignar a cada compañero el canal del lenguaje de programación que domine**, en el que podrá
+    administrar, hacer streams y ayudar a quienes lo necesiten
   
   Sin duda nos falta camino por recorrer, pero con iniciativa y esfuerzo, lograremos ser buenos
   desarrolladores y programadores en poco tiempo. Si tienes alguna duda, inquietud o sugerencia al respecto, 
